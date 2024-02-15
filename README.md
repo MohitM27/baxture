@@ -18,4 +18,4 @@ The User Management API provides a simple interface for managing user records. I
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/user-management-api.git
+git clone https://github.com/MohitM27/baxture.git
